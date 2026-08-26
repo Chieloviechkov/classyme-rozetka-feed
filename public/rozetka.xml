@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 14:32">
+<yml_catalog date="2026-08-26 14:45">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -13653,7 +13653,7 @@
   </offer>
   <offer id="1868" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/</url>
-   <price>2199</price>
+   <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/19/korset-z-merezhyvo-99754972230563_+05036470b0.jpeg</picture>
@@ -13676,7 +13676,7 @@
   </offer>
   <offer id="1869" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/1869/</url>
-   <price>2199</price>
+   <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/20/42376653802205_+49976855b3.jpeg</picture>
@@ -13698,7 +13698,7 @@
   </offer>
   <offer id="1870" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/1870/</url>
-   <price>2199</price>
+   <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/21/85709172155691_+96fe6680a1.png</picture>
@@ -13719,7 +13719,7 @@
   </offer>
   <offer id="1871" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/1871/</url>
-   <price>2199</price>
+   <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/22/49413103817995_+8b097ac1fd.jpeg</picture>
@@ -14128,7 +14128,7 @@
    <param name="Термін доставки">12</param>
   </offer>
   <offer id="auto_6a75c3a6b85c3" group_id="76655900" available="true">
-   <url></url>
+   <url>https://classyme.com.ua/korset-z-merezhyvo/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
@@ -14141,9 +14141,11 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
    <param name="Розмір">XS</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="auto_6a75c5d856d77" group_id="76655900" available="true">
-   <url></url>
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1870/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
@@ -14156,9 +14158,11 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="auto_6a75c6c0544ff" group_id="76655900" available="true">
-   <url></url>
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1871/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
@@ -14171,6 +14175,8 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="auto_6a75a68b64d97" group_id="76627748" available="true">
    <url>https://classyme.com.ua/oversaiz-lonhsliv-crossline/</url>
@@ -14189,8 +14195,8 @@
    <param name="Термін доставки">12</param>
   </offer>
   <offer id="auto_6a75c4a818d5f" group_id="76655900" available="true">
-   <url></url>
-   <price>2999</price>
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1869/</url>
+   <price>2149</price>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://content1.rozetka.com.ua/goods/images/big/670460298.jpg</picture>
@@ -14202,6 +14208,120 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="1928" group_id="957707" available="true">
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1928/</url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1084</categoryId>
+   <picture>https://classyme.com.ua/content/images/29/91250910925525_+122f7bfddd.png</picture>
+   <picture>https://classyme.com.ua/content/images/29/80941843970188_+0b3fb44f6a.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/29/88558785711504_+c959598be5.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/29/55233289838610_+e92a9919c5.png</picture>
+   <picture>https://classyme.com.ua/content/images/29/23756497120203_+68c7309312.png</picture>
+   <picture>https://classyme.com.ua/content/images/29/83875505319610_+86320b9146.png</picture>
+   <vendorCode>26bod-m</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет з мереживо - Classyme - XS - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживо - Classyme - XS - (26bod-m)]]></name_ua>
+   <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description>
+   <description_ua><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description_ua>
+   <param name="Розмір">XS</param>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+  </offer>
+  <offer id="1929" group_id="957707" available="true">
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1929/</url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1084</categoryId>
+   <picture>https://classyme.com.ua/content/images/30/94945798459122_+9da7cf6f13.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/30/49395463907343_+3819318b85.png</picture>
+   <picture>https://classyme.com.ua/content/images/30/38726845169364_+603daf6bd6.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/30/33902256059465_+a2f3faa728.png</picture>
+   <picture>https://classyme.com.ua/content/images/30/66941119028497_+cc4030357d.png</picture>
+   <picture>https://classyme.com.ua/content/images/30/19176379582691_+845bd4701d.png</picture>
+   <vendorCode>26bod-m</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет з мереживо - Classyme - S - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживо - Classyme - S - (26bod-m)]]></name_ua>
+   <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description>
+   <description_ua><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description_ua>
+   <param name="Розмір">S</param>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+  </offer>
+  <offer id="1930" group_id="957707" available="true">
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1930/</url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1084</categoryId>
+   <picture>https://classyme.com.ua/content/images/31/85699756145428_+d55ef02fe4.png</picture>
+   <picture>https://classyme.com.ua/content/images/31/93759717123521_+f762b27782.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/31/27075536449916_+b4480b9e3d.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/31/17350528134198_+3c20a923d6.png</picture>
+   <picture>https://classyme.com.ua/content/images/31/61458681316891_+38d0530641.png</picture>
+   <picture>https://classyme.com.ua/content/images/31/93272358154141_+b204bfd3d5.png</picture>
+   <vendorCode>26bod-m</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет з мереживо - Classyme - M - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживо - Classyme - M - (26bod-m)]]></name_ua>
+   <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description>
+   <description_ua><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description_ua>
+   <param name="Розмір">M</param>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+  </offer>
+  <offer id="1931" group_id="957707" available="true">
+   <url>https://classyme.com.ua/korset-z-merezhyvo/1931/</url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1084</categoryId>
+   <picture>https://classyme.com.ua/content/images/32/39943477456205_+1d8c44cb98.png</picture>
+   <picture>https://classyme.com.ua/content/images/32/71242567802896_+62cd2e4bca.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/32/64266424649671_+5a12a7dd51.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/32/80525597627037_+b52f281a24.png</picture>
+   <picture>https://classyme.com.ua/content/images/32/91684265428202_+d978834dee.png</picture>
+   <picture>https://classyme.com.ua/content/images/32/73659865007058_+2fc57b1022.png</picture>
+   <vendorCode>26bod-m</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет з мереживо - Classyme - L - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживо - Classyme - L - (26bod-m)]]></name_ua>
+   <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description>
+   <description_ua><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
+
+<p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
+]]></description_ua>
+   <param name="Розмір">L</param>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
   </offer>
   <offer id="31d-wxs" group_id="947944" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/</url>
