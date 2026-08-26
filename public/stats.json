@@ -1,0 +1,21 @@
+{
+ "generated": "2026-08-26 12:49",
+ "total": 628,
+ "inStock": 282,
+ "preorder": 312,
+ "out": 34,
+ "kept": 31,
+ "fresh": 16,
+ "fromSite": 139,
+ "matchedUrlId": 439,
+ "matchedUrl": 70,
+ "unmatchedReference": 103,
+ "site": {
+  "requested": 214,
+  "resolved": 141,
+  "failed": 1,
+  "skipped": 72,
+  "rateLimited": true,
+  "ms": 14585
+ }
+}
