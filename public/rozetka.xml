@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 12:49">
+<yml_catalog date="2026-08-26 12:52">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -11510,6 +11510,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Рожевий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1767" group_id="721381" available="true">
    <url>https://classyme.com.ua/kombinezony/1767/</url>
@@ -11532,6 +11534,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Рожевий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1769" group_id="722381" available="true">
    <url>https://classyme.com.ua/kombinezony/1769/</url>
@@ -11557,6 +11561,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1770" group_id="722381" available="true">
    <url>https://classyme.com.ua/kombinezony/1770/</url>
@@ -11582,6 +11588,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1771" group_id="722381" available="true">
    <url>https://classyme.com.ua/kombinezony/1771/</url>
@@ -11607,6 +11615,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1773" group_id="723381" available="true">
    <url>https://classyme.com.ua/kombinezony/1773/</url>
@@ -11628,6 +11638,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1774" group_id="723381" available="true">
    <url>https://classyme.com.ua/kombinezony/1774/</url>
@@ -11649,6 +11661,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1775" group_id="723381" available="true">
    <url>https://classyme.com.ua/kombinezony/1775/</url>
@@ -11670,6 +11684,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1777" group_id="724381" available="true">
    <url>https://classyme.com.ua/kombinezony/1777/</url>
@@ -11691,6 +11707,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1778" group_id="724381" available="true">
    <url>https://classyme.com.ua/kombinezony/1778/</url>
@@ -11712,6 +11730,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1779" group_id="724381" available="true">
    <url>https://classyme.com.ua/kombinezony/1779/</url>
@@ -11733,6 +11753,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1781" group_id="725381" available="true">
    <url>https://classyme.com.ua/kombinezony/1781/</url>
@@ -11753,6 +11775,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Темний</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1782" group_id="725381" available="true">
    <url>https://classyme.com.ua/kombinezony/1782/</url>
@@ -11773,6 +11797,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Темний</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1783" group_id="725381" available="true">
    <url>https://classyme.com.ua/kombinezony/1783/</url>
@@ -11793,6 +11819,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Темний</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1785" group_id="726381" available="true">
    <url>https://classyme.com.ua/kombinezony/1785/</url>
@@ -11815,6 +11843,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Чорний</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1786" group_id="726381" available="true">
    <url>https://classyme.com.ua/kombinezony/1786/</url>
@@ -11837,6 +11867,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Чорний</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1787" group_id="726381" available="true">
    <url>https://classyme.com.ua/kombinezony/1787/</url>
@@ -11859,6 +11891,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Чорний</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1789" group_id="727381" available="true">
    <url>https://classyme.com.ua/kombinezony/1789/</url>
@@ -11883,6 +11917,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1790" group_id="727381" available="true">
    <url>https://classyme.com.ua/kombinezony/1790/</url>
@@ -11907,6 +11943,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1791" group_id="727381" available="true">
    <url>https://classyme.com.ua/kombinezony/1791/</url>
@@ -11931,6 +11969,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1793" group_id="728381" available="true">
    <url>https://classyme.com.ua/kombinezony/1793/</url>
@@ -11951,6 +11991,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1794" group_id="728381" available="true">
    <url>https://classyme.com.ua/kombinezony/1794/</url>
@@ -11971,6 +12013,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1795" group_id="728381" available="true">
    <url>https://classyme.com.ua/kombinezony/1795/</url>
@@ -11991,6 +12035,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Сірий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1797" group_id="729381" available="true">
    <url>https://classyme.com.ua/kombinezony/1797/</url>
@@ -12013,6 +12059,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1798" group_id="729381" available="true">
    <url>https://classyme.com.ua/kombinezony/1798/</url>
@@ -12035,6 +12083,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1799" group_id="729381" available="true">
    <url>https://classyme.com.ua/kombinezony/1799/</url>
@@ -12057,11 +12107,12 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1800" group_id="730381" available="true">
    <url>https://classyme.com.ua/kurtkydublianky/1800/</url>
    <price>999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/1/19918802609744_+c6c0e0e672.jpg</picture>
@@ -12084,7 +12135,6 @@
   <offer id="1801" group_id="730381" available="true">
    <url>https://classyme.com.ua/kurtkydublianky/1801/</url>
    <price>999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/2/58011884759078_+b252f1040e.jpg</picture>
@@ -12107,7 +12157,6 @@
   <offer id="1802" group_id="730381" available="true">
    <url>https://classyme.com.ua/kurtkydublianky/1802/</url>
    <price>999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/3/49734199814827_+782d68109e.jpg</picture>
@@ -12261,8 +12310,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1808" group_id="732381" available="true">
    <url>https://classyme.com.ua/stylnyi-bezhevyi-bomber/1808/</url>
@@ -12294,8 +12341,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1809" group_id="732381" available="true">
    <url>https://classyme.com.ua/stylnyi-bezhevyi-bomber/1809/</url>
@@ -12327,8 +12372,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1810" group_id="732381" available="true">
    <url>https://classyme.com.ua/stylnyi-bezhevyi-bomber/1810/</url>
@@ -13101,8 +13144,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1847" group_id="736381" available="true">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1847/</url>
@@ -13125,8 +13166,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1848" group_id="736381" available="true">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1848/</url>
@@ -13149,8 +13188,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">L</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1849" group_id="736381" available="true">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1849/</url>
@@ -13173,8 +13210,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Червоний у клітинку</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1850" group_id="736381" available="true">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1850/</url>
@@ -13197,8 +13232,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Червоний у клітинку</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1851" group_id="736381" available="true">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1851/</url>
@@ -13221,8 +13254,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">L</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1852" group_id="737381" available="true">
    <url>https://classyme.com.ua/elehantnyi-korset/</url>
