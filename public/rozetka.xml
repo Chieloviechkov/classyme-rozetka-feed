@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 13:09">
+<yml_catalog date="2026-08-26 13:27">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -14013,6 +14013,191 @@
    <param name="Розмір">L</param>
    <param name="Кнопка передзамовлення">Передзамовити</param>
    <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a759c1bd7803" group_id="76623572" available="true">
+   <url>https://classyme.com.ua/mini-suknia-na-odne-pleche/</url>
+   <price>2999</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1066</categoryId>
+   <picture>https://classyme.com.ua/content/images/5/1122x1402l95mc0/mini-suknia-na-odne-pleche-2380</picture>
+   <vendorCode>33d</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Мини платье на одно плечо - Classyme -S - Белый - (33d)]]></name>
+   <name_ua><![CDATA[Міні сукня на одне плече - Classyme - S - Білий - (33d)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a7599fb8f05f" group_id="76623572" available="true">
+   <url>https://classyme.com.ua/mini-suknia-na-odne-pleche/</url>
+   <price>2999</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1066</categoryId>
+   <picture>https://classyme.com.ua/content/images/5/1122x1402l95mc0/mini-suknia-na-odne-pleche-2380</picture>
+   <vendorCode>33d</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Мини платье на одно плечо - Classyme -XS - Белый - (33d)]]></name>
+   <name_ua><![CDATA[Міні сукня на одне плече - Classyme -XS - Білий - (33d)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a759dbea3bfa" group_id="76623572" available="true">
+   <url>https://classyme.com.ua/mini-suknia-na-odne-pleche/</url>
+   <price>2999</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1066</categoryId>
+   <picture>https://classyme.com.ua/content/images/5/1122x1402l95mc0/mini-suknia-na-odne-pleche-2380</picture>
+   <vendorCode>33d</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Мини платье на одно плечо - Classyme -M - Белый - (33d)]]></name>
+   <name_ua><![CDATA[Міні сукня на одне плече - Classyme -M - Білий - (33d)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a759f3b01052" group_id="76623572" available="true">
+   <url>https://classyme.com.ua/mini-suknia-na-odne-pleche/</url>
+   <price>2999</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1066</categoryId>
+   <picture>https://classyme.com.ua/content/images/5/1122x1402l95mc0/mini-suknia-na-odne-pleche-2380</picture>
+   <vendorCode>33d</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Мини платье на одно плечо - Classyme -L - Белый - (33d)]]></name>
+   <name_ua><![CDATA[Міні сукня на одне плече - Classyme -L - Білий - (33d)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a75a31ba2de2" group_id="76655981" available="true">
+   <url>https://classyme.com.ua/oversaiz-lonhsliv-crossline/</url>
+   <price>2450</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1083</categoryId>
+   <picture>https://classyme.com.ua/content/images/21/1122x1402l95mc0/oversaiz-lonhsliv-crossline-98</picture>
+   <vendorCode>3long</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Женский лонг в стиле хром - Classyme -XS - Белый - (3long)]]></name>
+   <name_ua><![CDATA[Жіночий лонг в стилі хром - Classyme -XS - Білий - (3long)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a75a4eb3cd25" group_id="76655981" available="true">
+   <url>https://classyme.com.ua/oversaiz-lonhsliv-crossline/</url>
+   <price>2450</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1083</categoryId>
+   <picture>https://classyme.com.ua/content/images/21/1122x1402l95mc0/oversaiz-lonhsliv-crossline-98</picture>
+   <vendorCode>3long</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Женский лонг в стиле хром - Classyme -S - Белый - (3long)]]></name>
+   <name_ua><![CDATA[Жіночий лонг в стилі хром - Classyme -S - Білий - (3long)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a75a80f0cc26" group_id="76627748" available="true">
+   <url>https://classyme.com.ua/oversaiz-lonhsliv-crossline/</url>
+   <price>2450</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1083</categoryId>
+   <picture>https://classyme.com.ua/content/images/21/1122x1402l95mc0/oversaiz-lonhsliv-crossline-98</picture>
+   <vendorCode>3long</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Женский лонг в стиле хром - Classyme -L - Белый - (3long)]]></name>
+   <name_ua><![CDATA[Жіночий лонг в стилі хром - Classyme -L - Білий - (3long)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a75c3a6b85c3" group_id="76655900" available="true">
+   <url></url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1064</categoryId>
+   <vendorCode>26bod</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет с кружевом - Classyme - XS - Розовый - (26bod)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - XS - Рожевий - (26bod)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Розмір">XS</param>
+  </offer>
+  <offer id="auto_6a75c5d856d77" group_id="76655900" available="true">
+   <url></url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1064</categoryId>
+   <vendorCode>26bod</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет с кружевом - Classyme - M - Розовый - (26bod)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - M - Рожевий - (26bod)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Розмір">M</param>
+  </offer>
+  <offer id="auto_6a75c6c0544ff" group_id="76655900" available="true">
+   <url></url>
+   <price>2149</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1064</categoryId>
+   <vendorCode>26bod</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет с кружевом - Classyme - L - Розовый - (26bod)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - L - Рожевий - (26bod)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Розмір">L</param>
+  </offer>
+  <offer id="auto_6a75a68b64d97" group_id="76627748" available="true">
+   <url>https://classyme.com.ua/oversaiz-lonhsliv-crossline/</url>
+   <price>2450</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1083</categoryId>
+   <picture>https://classyme.com.ua/content/images/21/1122x1402l95mc0/oversaiz-lonhsliv-crossline-98</picture>
+   <vendorCode>3long</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Женский лонг в стиле хром - Classyme -M - Белый - (3long)]]></name>
+   <name_ua><![CDATA[Жіночий лонг в стилі хром - Classyme -M - Білий - (3long)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
+  </offer>
+  <offer id="auto_6a75c4a818d5f" group_id="76655900" available="true">
+   <url></url>
+   <price>2999</price>
+   <currencyId>UAH</currencyId>
+   <categoryId>1064</categoryId>
+   <vendorCode>26bod</vendorCode>
+   <vendor>Classyme</vendor>
+   <stock_quantity>999</stock_quantity>
+   <name><![CDATA[Корсет с кружевом - Classyme - S - Розовый - (26bod)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - S - Рожевий - (26bod)]]></name_ua>
+   <param name="Бренд">Classyme</param>
+   <param name="Країна-виробник">Україна</param>
+   <param name="Розмір">S</param>
   </offer>
   <offer id="31d-wxs" group_id="947944" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/</url>
