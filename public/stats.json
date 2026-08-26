@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27 00:03",
+ "generated": "2026-08-27 00:32",
  "total": 644,
  "inStock": 269,
  "preorder": 341,
@@ -17,7 +17,7 @@
   "failed": 0,
   "skipped": 0,
   "rateLimited": false,
-  "rateLimitHits": 2,
-  "ms": 185678
+  "rateLimitHits": 0,
+  "ms": 132057
  }
 }
