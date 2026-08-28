@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 17:06">
+<yml_catalog date="2026-08-28 17:37">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -4405,6 +4405,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">XS</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1386" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1386/</url>
@@ -4426,6 +4428,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1387" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1387/</url>
