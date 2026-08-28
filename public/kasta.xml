@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 15:07">
+<yml_catalog date="2026-08-28 15:37">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -11870,7 +11870,7 @@
    <param name="Колір">Бежевий</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1811" group_id="733381" available="false">
+  <offer id="1811" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -11884,7 +11884,7 @@
    <picture>https://classyme.com.ua/content/images/12/dzhynsy-z-kolorovymy-khrestamy-35474395222408_+d43882c8b8.jpg</picture>
    <vendorCode>60je</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсы с цветными крестами - Classyme - XS - Джинсовый - (60je)]]></name>
    <name_ua><![CDATA[Джинси з кольоровими хрестами - Classyme - XS - Джинсовий - (60je)]]></name_ua>
    <description><![CDATA[<p>Стильні джинси світлого деніму прямого крою з декоративними нашивками у вигляді хрестів на штанинах. Ідеально підходять для створення сучасного street-style образу та додають яскравий акцент у ваш гардероб.<br />  З чим носити: Поєднуйте з футболками, худі або джинсовими куртками. Стильний образ доповнять кросівки або грубі черевики.</p>  ]]></description>
@@ -11894,7 +11894,7 @@
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1812" group_id="733381" available="false">
+  <offer id="1812" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1812/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -11908,7 +11908,7 @@
    <picture>https://classyme.com.ua/content/images/12/dzhynsy-z-kolorovymy-khrestamy-35474395222408_+d43882c8b8.jpg</picture>
    <vendorCode>60je</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсы с цветными крестами - Classyme - S - Джинсовый - (60je)]]></name>
    <name_ua><![CDATA[Джинси з кольоровими хрестами - Classyme - S - Джинсовий - (60je)]]></name_ua>
    <description><![CDATA[<p>Стильні джинси світлого деніму прямого крою з декоративними нашивками у вигляді хрестів на штанинах. Ідеально підходять для створення сучасного street-style образу та додають яскравий акцент у ваш гардероб.<br />  З чим носити: Поєднуйте з футболками, худі або джинсовими куртками. Стильний образ доповнять кросівки або грубі черевики.</p>  ]]></description>
@@ -11918,7 +11918,7 @@
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1813" group_id="733381" available="false">
+  <offer id="1813" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1813/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -11932,7 +11932,7 @@
    <picture>https://classyme.com.ua/content/images/12/dzhynsy-z-kolorovymy-khrestamy-35474395222408_+d43882c8b8.jpg</picture>
    <vendorCode>60je</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсы с цветными крестами - Classyme - M - Джинсовый - (60je)]]></name>
    <name_ua><![CDATA[Джинси з кольоровими хрестами - Classyme - M - Джинсовий - (60je)]]></name_ua>
    <description><![CDATA[<p>Стильні джинси світлого деніму прямого крою з декоративними нашивками у вигляді хрестів на штанинах. Ідеально підходять для створення сучасного street-style образу та додають яскравий акцент у ваш гардероб.<br />  З чим носити: Поєднуйте з футболками, худі або джинсовими куртками. Стильний образ доповнять кросівки або грубі черевики.</p>  ]]></description>
@@ -11942,7 +11942,7 @@
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1814" group_id="733381" available="false">
+  <offer id="1814" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1814/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -11956,7 +11956,7 @@
    <picture>https://classyme.com.ua/content/images/12/dzhynsy-z-kolorovymy-khrestamy-35474395222408_+d43882c8b8.jpg</picture>
    <vendorCode>60je</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсы с цветными крестами - Classyme - L - Джинсовый - (60je)]]></name>
    <name_ua><![CDATA[Джинси з кольоровими хрестами - Classyme - L - Джинсовий - (60je)]]></name_ua>
    <description><![CDATA[<p>Стильні джинси світлого деніму прямого крою з декоративними нашивками у вигляді хрестів на штанинах. Ідеально підходять для створення сучасного street-style образу та додають яскравий акцент у ваш гардероб.<br />  З чим носити: Поєднуйте з футболками, худі або джинсовими куртками. Стильний образ доповнять кросівки або грубі черевики.</p>  ]]></description>
@@ -12151,7 +12151,7 @@
    <param name="Колір">Бежевий</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1823" group_id="733381" available="false">
+  <offer id="1823" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1823/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -12165,7 +12165,7 @@
    <picture>https://classyme.com.ua/content/images/12/dzhynsy-z-kolorovymy-khrestamy-35474395222408_+d43882c8b8.jpg</picture>
    <vendorCode>60je</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсы с цветными крестами - Classyme - XL - Джинсовый - (60je)]]></name>
    <name_ua><![CDATA[Джинси з кольоровими хрестами - Classyme - XL - Джинсовий - (60je)]]></name_ua>
    <description><![CDATA[<p>Стильні джинси світлого деніму прямого крою з декоративними нашивками у вигляді хрестів на штанинах. Ідеально підходять для створення сучасного street-style образу та додають яскравий акцент у ваш гардероб.<br />  З чим носити: Поєднуйте з футболками, худі або джинсовими куртками. Стильний образ доповнять кросівки або грубі черевики.</p>  ]]></description>

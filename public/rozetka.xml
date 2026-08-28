@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 15:07">
+<yml_catalog date="2026-08-28 15:37">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -12429,8 +12429,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1812" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1812/</url>
@@ -12455,8 +12453,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1813" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1813/</url>
@@ -12481,8 +12477,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1814" group_id="733381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-kolorovymy-khrestamy/1814/</url>
@@ -12507,8 +12501,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">L</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1815" group_id="702381" available="true">
    <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1815/</url>
@@ -12720,8 +12712,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">XL</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1824" group_id="735381" available="true">
    <url>https://classyme.com.ua/dzhynsy/</url>
