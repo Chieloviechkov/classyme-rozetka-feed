@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28 04:32",
+ "generated": "2026-08-28 05:02",
  "total": 644,
- "inStock": 269,
- "preorder": 341,
+ "inStock": 262,
+ "preorder": 348,
  "out": 34,
  "kept": 2,
  "fresh": 20,
@@ -18,6 +18,6 @@
   "skipped": 0,
   "rateLimited": false,
   "rateLimitHits": 0,
-  "ms": 134627
+  "ms": 132017
  }
 }

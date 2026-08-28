@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 04:32">
+<yml_catalog date="2026-08-28 05:02">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -2782,6 +2782,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Молочний</param>
    <param name="Розмір">XS</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1286" group_id="657381" available="true">
    <url>https://classyme.com.ua/top-bando/</url>
@@ -6612,8 +6614,7 @@
   </offer>
   <offer id="1509" group_id="696381" available="true">
    <url>https://classyme.com.ua/trendove-polo/1509/</url>
-   <price>999</price>
-   <oldprice>1490</oldprice>
+   <price>1490</price>
    <currencyId>UAH</currencyId>
    <categoryId>1083</categoryId>
    <picture>https://classyme.com.ua/content/images/10/trendove-polo-94882478381543_+26f381fd9b.jpg</picture>
@@ -6631,11 +6632,12 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1510" group_id="696381" available="true">
    <url>https://classyme.com.ua/trendove-polo/1510/</url>
-   <price>999</price>
-   <oldprice>1490</oldprice>
+   <price>1490</price>
    <currencyId>UAH</currencyId>
    <categoryId>1083</categoryId>
    <picture>https://classyme.com.ua/content/images/11/65119222616133_+1cb0ed60de.jpeg</picture>
@@ -6655,6 +6657,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Коричневий</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1512" group_id="696381" available="true">
    <url>https://classyme.com.ua/trendove-polo/1512/</url>
@@ -10969,6 +10973,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Молочний</param>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1739" group_id="650381" available="true">
    <url>https://classyme.com.ua/kardyhan-miakyi/1739/</url>
@@ -10994,6 +11000,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Молочний</param>
    <param name="Розмір">M</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1740" group_id="650381" available="true">
    <url>https://classyme.com.ua/kardyhan-miakyi/1740/</url>
@@ -11019,6 +11027,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Молочний</param>
    <param name="Розмір">L</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1741" group_id="650381" available="true">
    <url>https://classyme.com.ua/kardyhan-miakyi/1741/</url>
@@ -11044,6 +11054,8 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Молочний</param>
    <param name="Розмір">XL</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1742" group_id="617381" available="true">
    <url>https://classyme.com.ua/korset-biustie/1742/</url>
