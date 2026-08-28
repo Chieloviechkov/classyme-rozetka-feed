@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 12:32">
+<yml_catalog date="2026-08-28 12:50">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -4160,7 +4160,7 @@
    <param name="Колір">Джинсовий</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1381" group_id="680381" available="false">
+  <offer id="1381" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/</url>
    <price>2999</price>
    <oldprice>3499</oldprice>
@@ -4172,7 +4172,7 @@
    <picture>https://classyme.com.ua/content/images/32/suknia-z-zhatoho-shyfonu-83264238042829_+d96e771f69.jpeg</picture>
    <vendorCode>9d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Платье из жатого шифона - Classyme - XS - Бежевый - (9d)]]></name>
    <name_ua><![CDATA[Сукня з жатого шифону - Classyme - XS - Бежевий - (9d)]]></name_ua>
    <description><![CDATA[<p>Елегантна та повітряна сукня з м’якого шифону створює яскравий і стильний образ. Модель має вільний верх з довгими рукавами та легкі драпірування на плечах, а вузький пояс і багатошарові волани на подолі підкреслюють талію і додають жіночності. Сукня підходить як для вечірніх виходів, так і для святкових заходів або фотосесій. До сукні йдуть шортики в комплеті.<br />  <br />  Сукня виглядає ефектно з високими чоботами, туфлями на каблуці або босоніжками. Для завершеного образу додавайте мінімалістичні аксесуари, клатч і делікатні прикраси.<br />  <br />  Довжина: 82-85 см </p>  ]]></description>
@@ -4182,7 +4182,7 @@
    <param name="Колір">Бежевий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1382" group_id="680381" available="false">
+  <offer id="1382" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1382/</url>
    <price>2999</price>
    <oldprice>3499</oldprice>
@@ -4193,7 +4193,7 @@
    <picture>https://classyme.com.ua/content/images/33/51309727921645_+01928f0276.jpeg</picture>
    <vendorCode>9d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Платье из жатого шифона - Classyme - S - Бежевый - (9d)]]></name>
    <name_ua><![CDATA[Сукня з жатого шифону - Classyme - S - Бежевий - (9d)]]></name_ua>
    <description><![CDATA[<p>Елегантна та повітряна сукня з м’якого шифону створює яскравий і стильний образ. Модель має вільний верх з довгими рукавами та легкі драпірування на плечах, а вузький пояс і багатошарові волани на подолі підкреслюють талію і додають жіночності. Сукня підходить як для вечірніх виходів, так і для святкових заходів або фотосесій. До сукні йдуть шортики в комплеті.<br />  <br />  Сукня виглядає ефектно з високими чоботами, туфлями на каблуці або босоніжками. Для завершеного образу додавайте мінімалістичні аксесуари, клатч і делікатні прикраси.<br />  <br />  Довжина: 82-85 см </p>  ]]></description>
@@ -5251,7 +5251,7 @@
    <param name="Колір">Чорний</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1452" group_id="688381" available="false">
+  <offer id="1452" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -5262,7 +5262,7 @@
    <picture>https://classyme.com.ua/content/images/3/trendova-dzhynsova-kurtochka-81048790291389_+2657578207.jpg</picture>
    <vendorCode>15m</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсовая куртка с карманами - Classyme - XS - Синий - (15m)]]></name>
    <name_ua><![CDATA[Джинсова куртка з карманами - Classyme - XS - Синій - (15m)]]></name_ua>
    <description><![CDATA[<p>Джнинсова куртка, яка додає стилю та чудово комбінується з джисами, шортами та спідницями. Зроблена з якісної європейської джинсової тканини, в складі 100% бавовна. <br />  Деталі: <br />  - вкорочений крій</p>    <p>- комірець-стійка</p>    <p>- дві нагрудні кишені на гудзиках <br />  - на рукавах пояси, що знімаються<br />  - застібки</p>  ]]></description>
@@ -5272,7 +5272,7 @@
    <param name="Колір">Синій</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1453" group_id="688381" available="false">
+  <offer id="1453" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1453/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -5282,7 +5282,7 @@
    <picture>https://classyme.com.ua/content/images/4/11661238442356_+fa795bff37.jpeg</picture>
    <vendorCode>15m</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсовая куртка с карманами - Classyme - S - Синий - (15m)]]></name>
    <name_ua><![CDATA[Джинсова куртка з карманами - Classyme - S - Синій - (15m)]]></name_ua>
    <description><![CDATA[<p>Джнинсова куртка, яка додає стилю та чудово комбінується з джисами, шортами та спідницями. Зроблена з якісної європейської джинсової тканини, в складі 100% бавовна. <br />  Деталі: <br />  - вкорочений крій</p>    <p>- комірець-стійка</p>    <p>- дві нагрудні кишені на гудзиках <br />  - на рукавах пояси, що знімаються<br />  - застібки</p>  ]]></description>
@@ -9239,7 +9239,7 @@
    <param name="Колір">Сріблясто-сірий</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1667" group_id="688381" available="false">
+  <offer id="1667" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1667/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -9247,7 +9247,7 @@
    <picture>https://classyme.com.ua/content/images/18/73405111029162_+b468dbfcc6.jpeg</picture>
    <vendorCode>15m</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсовая куртка с карманами - Classyme - M - Синий - (15m)]]></name>
    <name_ua><![CDATA[Джинсова куртка з карманами - Classyme - M - Синій - (15m)]]></name_ua>
    <description><![CDATA[<p>Джнинсова куртка, яка додає стилю та чудово комбінується з джисами, шортами та спідницями. Зроблена з якісної європейської джинсової тканини, в складі 100% бавовна. <br />  Деталі: <br />  - вкорочений крій</p>    <p>- комірець-стійка</p>    <p>- дві нагрудні кишені на гудзиках <br />  - на рукавах пояси, що знімаються<br />  - застібки</p>  ]]></description>
@@ -9257,7 +9257,7 @@
    <param name="Колір">Синій</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1668" group_id="688381" available="false">
+  <offer id="1668" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1668/</url>
    <price>2650</price>
    <currencyId>UAH</currencyId>
@@ -9267,7 +9267,7 @@
    <picture>https://classyme.com.ua/content/images/19/83828635125297_+2d5b1e6793.jpeg</picture>
    <vendorCode>15m</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Джинсовая куртка с карманами - Classyme - L - Синий - (15m)]]></name>
    <name_ua><![CDATA[Джинсова куртка з карманами - Classyme - L - Синій - (15m)]]></name_ua>
    <description><![CDATA[<p>Джнинсова куртка, яка додає стилю та чудово комбінується з джисами, шортами та спідницями. Зроблена з якісної європейської джинсової тканини, в складі 100% бавовна. <br />  Деталі: <br />  - вкорочений крій</p>    <p>- комірець-стійка</p>    <p>- дві нагрудні кишені на гудзиках <br />  - на рукавах пояси, що знімаються<br />  - застібки</p>  ]]></description>

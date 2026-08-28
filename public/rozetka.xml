@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 12:32">
+<yml_catalog date="2026-08-28 12:50">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -4317,8 +4317,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1382" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1382/</url>
@@ -4340,8 +4338,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Бежевий</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1383" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1383/</url>
@@ -5465,8 +5461,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1453" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1453/</url>
@@ -5487,8 +5481,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1454" group_id="689381" available="true">
    <url>https://classyme.com.ua/elehantnyi-top/</url>
@@ -9664,8 +9656,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1668" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1668/</url>
@@ -9686,8 +9676,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Синій</param>
    <param name="Розмір">L</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1669" group_id="688381" available="true">
    <url>https://classyme.com.ua/trendova-dzhynsova-kurtochka/1669/</url>

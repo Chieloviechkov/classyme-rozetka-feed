@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-28 12:32",
+ "generated": "2026-08-28 12:50",
  "total": 644,
- "inStock": 262,
- "preorder": 348,
+ "inStock": 268,
+ "preorder": 342,
  "out": 34,
  "kept": 2,
  "fresh": 20,
- "fromSite": 204,
+ "fromSite": 618,
  "matchedUrlId": 439,
  "matchedUrl": 70,
  "unmatchedReference": 111,
  "matchedArticle": 4,
  "site": {
-  "requested": 216,
-  "resolved": 216,
+  "requested": 642,
+  "resolved": 642,
   "failed": 0,
   "skipped": 0,
   "rateLimited": false,
   "rateLimitHits": 0,
-  "ms": 152885
+  "ms": 647740
  }
 }
