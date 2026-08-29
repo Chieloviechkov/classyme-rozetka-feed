@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-29 04:36">
+<yml_catalog date="2026-08-29 05:06">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -74,8 +74,7 @@
   </offer>
   <offer id="578" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/578/</url>
-   <price>1999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/29/shorty-10sk578-26208126991744_+b15341fbd6.jpeg</picture>
@@ -116,8 +115,7 @@
   </offer>
   <offer id="580" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/580/</url>
-   <price>999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/31/shorty-10sk580-17316819026358_+17ff16588a.jpeg</picture>
@@ -137,8 +135,7 @@
   </offer>
   <offer id="581" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/581/</url>
-   <price>999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/32/shorty-10sk581-52551946881284_+b80f15630d.jpeg</picture>
@@ -179,8 +176,7 @@
   </offer>
   <offer id="583" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/583/</url>
-   <price>1999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/34/shorty-10sk583-69426270876476_+4086c6f019.jpeg</picture>
@@ -221,8 +217,7 @@
   </offer>
   <offer id="585" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/585/</url>
-   <price>999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/36/shorty-10sk585-57517637744952_+3f62b6192d.jpeg</picture>
@@ -242,8 +237,7 @@
   </offer>
   <offer id="586" group_id="66381" available="true">
    <url>https://classyme.com.ua/shorty-10sk/586/</url>
-   <price>999</price>
-   <oldprice>2250</oldprice>
+   <price>2250</price>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/37/shorty-10sk586-57466434743701_+9e83a04ace.jpeg</picture>
@@ -1463,8 +1457,7 @@
   </offer>
   <offer id="1195" group_id="626381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-khrestamy/1195/</url>
-   <price>1499</price>
-   <oldprice>2650</oldprice>
+   <price>2650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1057</categoryId>
    <picture>https://classyme.com.ua/content/images/46/87379990557130_+53852c0999.jpeg</picture>
@@ -1489,8 +1482,7 @@
   </offer>
   <offer id="1196" group_id="626381" available="true">
    <url>https://classyme.com.ua/dzhynsy-z-khrestamy/1196/</url>
-   <price>1499</price>
-   <oldprice>2650</oldprice>
+   <price>2650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1057</categoryId>
    <picture>https://classyme.com.ua/content/images/47/47342159716021_+e5f571a064.jpeg</picture>
@@ -2471,7 +2463,6 @@
   <offer id="1247" group_id="639381" available="true">
    <url>https://classyme.com.ua/suknia-iz-merezhyvom/</url>
    <price>1999</price>
-   <oldprice>2450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/48/suknia-iz-merezhyvom-64241024816385_+6812dfc337.jpeg</picture>
@@ -2499,7 +2490,6 @@
   <offer id="1248" group_id="639381" available="true">
    <url>https://classyme.com.ua/suknia-iz-merezhyvom/1248/</url>
    <price>1999</price>
-   <oldprice>2450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/49/88265765798643_+a991ee2bf4.jpg</picture>
@@ -2787,8 +2777,7 @@
   </offer>
   <offer id="1286" group_id="657381" available="true">
    <url>https://classyme.com.ua/top-bando/</url>
-   <price>999</price>
-   <oldprice>1650</oldprice>
+   <price>1650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/37/top-bando-34515644638380_+504352b2a8.jpg</picture>
@@ -4299,7 +4288,6 @@
   <offer id="1381" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/32/suknia-z-zhatoho-shyfonu-51309321325944_+3a95422935.jpeg</picture>
@@ -4321,7 +4309,6 @@
   <offer id="1382" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1382/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/33/28239876111022_+7bd6d9df6f.jpeg</picture>
@@ -4342,7 +4329,6 @@
   <offer id="1383" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1383/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/34/54626156685327_+0183046b30.jpeg</picture>
@@ -4365,7 +4351,6 @@
   <offer id="1384" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1384/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/35/25229999501818_+4f0d3da47f.jpeg</picture>
@@ -4388,7 +4373,6 @@
   <offer id="1385" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1385/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/36/86871935452009_+a8bf5bd6c4.jpeg</picture>
@@ -4411,7 +4395,6 @@
   <offer id="1386" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1386/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/37/80810355636907_+1992b25961.jpeg</picture>
@@ -4434,7 +4417,6 @@
   <offer id="1387" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1387/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/38/32757643189933_+e90bd31096.jpeg</picture>
@@ -4457,7 +4439,6 @@
   <offer id="1388" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1388/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/39/91798732391574_+ec7ff50755.jpeg</picture>
@@ -4480,7 +4461,6 @@
   <offer id="1389" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1389/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/40/80422341715492_+6c1afa17f7.jpeg</picture>
@@ -4501,7 +4481,6 @@
   <offer id="1390" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1390/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/41/42336762831144_+3b4c93470a.jpeg</picture>
@@ -4522,7 +4501,6 @@
   <offer id="1391" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1391/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/42/78069468725450_+08ec2f2f07.jpeg</picture>
@@ -4545,7 +4523,6 @@
   <offer id="1392" group_id="680381" available="true">
    <url>https://classyme.com.ua/suknia-z-zhatoho-shyfonu/1392/</url>
    <price>2999</price>
-   <oldprice>3499</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/43/81518109231963_+b5e6f7e419.jpeg</picture>
@@ -5374,8 +5351,7 @@
   </offer>
   <offer id="1449" group_id="657381" available="true">
    <url>https://classyme.com.ua/top-bando/1449/</url>
-   <price>999</price>
-   <oldprice>1650</oldprice>
+   <price>1650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/37/top-bando-34515644638380_+504352b2a8.jpg</picture>
@@ -5398,8 +5374,7 @@
   </offer>
   <offer id="1450" group_id="657381" available="true">
    <url>https://classyme.com.ua/top-bando/1450/</url>
-   <price>999</price>
-   <oldprice>1650</oldprice>
+   <price>1650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
    <picture>https://classyme.com.ua/content/images/37/top-bando-34515644638380_+504352b2a8.jpg</picture>
@@ -6800,7 +6775,6 @@
   <offer id="1519" group_id="639381" available="true">
    <url>https://classyme.com.ua/suknia-iz-merezhyvom/1519/</url>
    <price>1999</price>
-   <oldprice>2450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/20/16097702097150_+88aa5dfb79.jpg</picture>
@@ -6824,7 +6798,6 @@
   <offer id="1520" group_id="639381" available="true">
    <url>https://classyme.com.ua/suknia-iz-merezhyvom/1520/</url>
    <price>1999</price>
-   <oldprice>2450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/21/68649869167379_+4958a56b44.jpg</picture>
@@ -8237,7 +8210,6 @@
   <offer id="1605" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/6/shuba-pid-lamu-bez-komiru-22627104728711_+c7cf7495d5.jpeg</picture>
@@ -8258,7 +8230,6 @@
   <offer id="1606" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1606/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/7/83588441502608_+a5f3b3b8e2.jpg</picture>
@@ -8279,7 +8250,6 @@
   <offer id="1607" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1607/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/8/66865092165955_+fdc815e275.jpeg</picture>
@@ -8300,7 +8270,6 @@
   <offer id="1608" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1608/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/9/51516343212225_+6e0dac0213.jpeg</picture>
@@ -8321,7 +8290,6 @@
   <offer id="1609" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1609/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/10/99394466333258_+c7f6147fd0.png</picture>
@@ -8342,7 +8310,6 @@
   <offer id="1610" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1610/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/11/22021958584810_+320b14fd37.png</picture>
@@ -8363,7 +8330,6 @@
   <offer id="1611" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1611/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/12/91672018821922_+82e07ca768.png</picture>
@@ -8384,7 +8350,6 @@
   <offer id="1612" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1612/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/13/45393498339566_+d86a41b71c.png</picture>
@@ -9202,7 +9167,6 @@
   <offer id="1646" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1646/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/47/58715205857514_+a51c182e84.jpg</picture>
@@ -9222,7 +9186,6 @@
   <offer id="1647" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1647/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/48/62250157176103_+8f7c7ebf92.jpg</picture>
@@ -9242,7 +9205,6 @@
   <offer id="1648" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1648/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/49/62130811911967_+9d8a911729.jpg</picture>
@@ -9263,7 +9225,6 @@
   <offer id="1649" group_id="714381" available="true">
    <url>https://classyme.com.ua/shuba-pid-lamu-bez-komiru/1649/</url>
    <price>2999</price>
-   <oldprice>3450</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1064</categoryId>
    <picture>https://classyme.com.ua/content/images/50/79266708201265_+2d6cc34357.jpg</picture>
@@ -12808,7 +12769,6 @@
   <offer id="1829" group_id="693381" available="true">
    <url>https://classyme.com.ua/plattia-amelia/1829/</url>
    <price>2999</price>
-   <oldprice>3650</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/30/97136768605791_+8bf243d9de.jpeg</picture>
@@ -12832,7 +12792,6 @@
   <offer id="1831" group_id="693381" available="true">
    <url>https://classyme.com.ua/plattia-amelia/1831/</url>
    <price>2999</price>
-   <oldprice>3650</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/32/83459898221573_+dc95c46c54.jpeg</picture>
@@ -12855,7 +12814,6 @@
   <offer id="1832" group_id="693381" available="true">
    <url>https://classyme.com.ua/plattia-amelia/1832/</url>
    <price>2999</price>
-   <oldprice>3650</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/33/97760567994476_+d9f819a6e9.jpeg</picture>
@@ -12879,7 +12837,6 @@
   <offer id="1834" group_id="693381" available="true">
    <url>https://classyme.com.ua/plattia-amelia/1834/</url>
    <price>2999</price>
-   <oldprice>3650</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/35/81441263561745_+f34ebd728f.jpeg</picture>
