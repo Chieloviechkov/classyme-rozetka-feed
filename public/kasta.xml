@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 15:06">
+<yml_catalog date="2026-08-31 15:36">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -12517,7 +12517,7 @@
    <param name="Колір">Синій</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1846" group_id="736381" available="true">
+  <offer id="1846" group_id="736381" available="false">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12528,7 +12528,7 @@
    <picture>https://classyme.com.ua/content/images/47/klasychna-rubashka-komfort-51890687431262_+d1d421e77c.jpeg</picture>
    <vendorCode>1sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Классическая рубашка комфорт - Classyme - S - Синий в клетку - (1sh)]]></name>
    <name_ua><![CDATA[Класична рубашка комфорт - Classyme - S - Синій у клітинку - (1sh)]]></name_ua>
    <description><![CDATA[<p>М’яка і стильна рубашка в клітинку, яка поєднує в собі комфорт та сучасний casual-стиль. Ідеально підходить для щоденного носіння та поєднання з джинсами, брюками або шортами.<br />  <br />  Поради стилю:<br />  Поєднувати з джинсами для повсякденного образу<br />  З носити з брюками для більш елегантного casual<br />  Можна накинути на топ або футболку для створення багатошарового look</p>  ]]></description>
@@ -12538,7 +12538,7 @@
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1847" group_id="736381" available="true">
+  <offer id="1847" group_id="736381" available="false">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1847/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12550,7 +12550,7 @@
    <picture>https://classyme.com.ua/content/images/48/18231733738502_+6beb9b2913.jpeg</picture>
    <vendorCode>1sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Классическая рубашка комфорт - Classyme - M - Синий в клетку - (1sh)]]></name>
    <name_ua><![CDATA[Класична рубашка комфорт - Classyme - M - Синій у клітинку - (1sh)]]></name_ua>
    <description><![CDATA[<p>М’яка і стильна рубашка в клітинку, яка поєднує в собі комфорт та сучасний casual-стиль. Ідеально підходить для щоденного носіння та поєднання з джинсами, брюками або шортами.<br />  <br />  Поради стилю:<br />  Поєднувати з джинсами для повсякденного образу<br />  З носити з брюками для більш елегантного casual<br />  Можна накинути на топ або футболку для створення багатошарового look</p>  ]]></description>
@@ -12560,7 +12560,7 @@
    <param name="Колір">Синій у клітинку</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1848" group_id="736381" available="true">
+  <offer id="1848" group_id="736381" available="false">
    <url>https://classyme.com.ua/klasychna-rubashka-komfort/1848/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12572,7 +12572,7 @@
    <picture>https://classyme.com.ua/content/images/49/68780774488771_+ee7a42120a.jpeg</picture>
    <vendorCode>1sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Классическая рубашка комфорт - Classyme - L - Синий в клетку - (1sh) (1848)]]></name>
    <name_ua><![CDATA[Класична рубашка комфорт - Classyme - L - Синій у клітинку - (1sh) (1848)]]></name_ua>
    <description><![CDATA[<p>М’яка і стильна рубашка в клітинку, яка поєднує в собі комфорт та сучасний casual-стиль. Ідеально підходить для щоденного носіння та поєднання з джинсами, брюками або шортами.<br />  <br />  Поради стилю:<br />  Поєднувати з джинсами для повсякденного образу<br />  З носити з брюками для більш елегантного casual<br />  Можна накинути на топ або футболку для створення багатошарового look</p>  ]]></description>
