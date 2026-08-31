@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 14:36">
+<yml_catalog date="2026-08-31 15:06">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -12729,7 +12729,7 @@
    <param name="Колір">Бежевий</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1856" group_id="737381" available="false">
+  <offer id="1856" group_id="737381" available="true">
    <url>https://classyme.com.ua/elehantnyi-korset/1856/</url>
    <price>1899</price>
    <currencyId>UAH</currencyId>
@@ -12740,7 +12740,7 @@
    <picture>https://classyme.com.ua/content/images/7/74882731929235_+e5cf056262.png</picture>
    <vendorCode>25bod</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Элегантный корсет - Classyme - XS - Черный - (25bod)]]></name>
    <name_ua><![CDATA[Елегантний корсет - Classyme - XS - Чорний - (25bod)]]></name_ua>
    <description><![CDATA[<p>Стильний корсет із витонченим мереживом, який підкреслює талію та вигідно обрамляє силует. Ідеально підходить для ділових та вечірніх образів, поєднується як із брюками, так і зі спідницями. Модель відзначається ніжним відтінком, який легко комбінується з різними аксесуарами. Позаду регулюється зав'язками<br />  З чим носити:<br />  Класичні брюки або джинси<br />  Спідниці-олівець або плісировані<br />  Піджак або легка накидка<br />  Високі підбори або стильні балетки<br />  Модна сумка середнього розміру</p>  ]]></description>
@@ -12750,7 +12750,7 @@
    <param name="Колір">Чорний</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1857" group_id="737381" available="false">
+  <offer id="1857" group_id="737381" available="true">
    <url>https://classyme.com.ua/elehantnyi-korset/1857/</url>
    <price>1899</price>
    <currencyId>UAH</currencyId>
@@ -12761,7 +12761,7 @@
    <picture>https://classyme.com.ua/content/images/8/74903541739344_+5e9046b749.jpeg</picture>
    <vendorCode>25bod</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Элегантный корсет - Classyme - S - Черный - (25bod)]]></name>
    <name_ua><![CDATA[Елегантний корсет - Classyme - S - Чорний - (25bod)]]></name_ua>
    <description><![CDATA[<p>Стильний корсет із витонченим мереживом, який підкреслює талію та вигідно обрамляє силует. Ідеально підходить для ділових та вечірніх образів, поєднується як із брюками, так і зі спідницями. Модель відзначається ніжним відтінком, який легко комбінується з різними аксесуарами. Позаду регулюється зав'язками<br />  З чим носити:<br />  Класичні брюки або джинси<br />  Спідниці-олівець або плісировані<br />  Піджак або легка накидка<br />  Високі підбори або стильні балетки<br />  Модна сумка середнього розміру</p>  ]]></description>
