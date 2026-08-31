@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 16:07">
+<yml_catalog date="2026-08-31 16:37">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -14289,6 +14289,8 @@
 Під спідницею передбачені шортики в комплекті в тон, тому модель залишається комфортною та практичною навіть під час активного руху. Представлена у молочному та чорному кольорах.</p>
 ]]></description_ua>
    <param name="Розмір">XS</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
@@ -14313,6 +14315,8 @@
 Під спідницею передбачені шортики в комплекті в тон, тому модель залишається комфортною та практичною навіть під час активного руху. Представлена у молочному та чорному кольорах.</p>
 ]]></description_ua>
    <param name="Розмір">S</param>
+   <param name="Кнопка передзамовлення">Передзамовити</param>
+   <param name="Термін доставки">12</param>
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
