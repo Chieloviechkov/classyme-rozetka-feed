@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 12:38">
+<yml_catalog date="2026-08-31 13:08">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -12811,7 +12811,7 @@
    <param name="Колір">Чорний</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1860" group_id="738381" available="false">
+  <offer id="1860" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/</url>
    <price>2599</price>
    <currencyId>UAH</currencyId>
@@ -12831,7 +12831,7 @@
    <picture>https://classyme.com.ua/content/images/11/shyfonova-suknia-z-riushamy-ta-kvitamy-99238499057167_+4554b5ed4c.jpeg</picture>
    <vendorCode>30d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Шифоновое платье с рюшами и цветами - Classyme - XS - Белый - (30d)]]></name>
    <name_ua><![CDATA[Шифонова сукня з рюшами та квітами - Classyme - XS - Білий - (30d)]]></name_ua>
    <description><![CDATA[<p>Повітряна та жіночна сукня з ніжного шифону з рюшами по подолу і на рукавах. Прекрасно підкреслює талію завдяки широкому поясу, що зав’язується. Ідеальна для літніх прогулянок, вечірок та світських заходів. Візерунок у вигляді маленьких рожевих квіток додає романтичності та витонченості образу.<br />  Довжина 80см та є шортики для зручності.<br />  З чим носити:<br />  З класичними туфлями на підборах або елегантними мюлями.<br />  Можна доповнити невеликим клатчем або сумкою на ланцюжку.<br />  Підходить як з коротким, так і з довгим жакетом або кардиганом для прохолодної погоди.</p>  ]]></description>
@@ -12841,7 +12841,7 @@
    <param name="Колір">Білий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1861" group_id="738381" available="false">
+  <offer id="1861" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1861/</url>
    <price>2599</price>
    <currencyId>UAH</currencyId>
@@ -12861,7 +12861,7 @@
    <picture>https://classyme.com.ua/content/images/11/shyfonova-suknia-z-riushamy-ta-kvitamy-99238499057167_+4554b5ed4c.jpeg</picture>
    <vendorCode>30d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Шифоновое платье с рюшами и цветами - Classyme - S - Белый - (30d)]]></name>
    <name_ua><![CDATA[Шифонова сукня з рюшами та квітами - Classyme - S - Білий - (30d)]]></name_ua>
    <description><![CDATA[<p>Повітряна та жіночна сукня з ніжного шифону з рюшами по подолу і на рукавах. Прекрасно підкреслює талію завдяки широкому поясу, що зав’язується. Ідеальна для літніх прогулянок, вечірок та світських заходів. Візерунок у вигляді маленьких рожевих квіток додає романтичності та витонченості образу.<br />  Довжина 80см та є шортики для зручності.<br />  З чим носити:<br />  З класичними туфлями на підборах або елегантними мюлями.<br />  Можна доповнити невеликим клатчем або сумкою на ланцюжку.<br />  Підходить як з коротким, так і з довгим жакетом або кардиганом для прохолодної погоди.</p>  ]]></description>
@@ -12871,7 +12871,7 @@
    <param name="Колір">Білий</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1862" group_id="738381" available="false">
+  <offer id="1862" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1862/</url>
    <price>2599</price>
    <currencyId>UAH</currencyId>
@@ -12891,7 +12891,7 @@
    <picture>https://classyme.com.ua/content/images/11/shyfonova-suknia-z-riushamy-ta-kvitamy-99238499057167_+4554b5ed4c.jpeg</picture>
    <vendorCode>30d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Шифоновое платье с рюшами и цветами - Classyme - M - Белый - (30d)]]></name>
    <name_ua><![CDATA[Шифонова сукня з рюшами та квітами - Classyme - M - Білий - (30d)]]></name_ua>
    <description><![CDATA[<p>Повітряна та жіночна сукня з ніжного шифону з рюшами по подолу і на рукавах. Прекрасно підкреслює талію завдяки широкому поясу, що зав’язується. Ідеальна для літніх прогулянок, вечірок та світських заходів. Візерунок у вигляді маленьких рожевих квіток додає романтичності та витонченості образу.<br />  Довжина 80см та є шортики для зручності.<br />  З чим носити:<br />  З класичними туфлями на підборах або елегантними мюлями.<br />  Можна доповнити невеликим клатчем або сумкою на ланцюжку.<br />  Підходить як з коротким, так і з довгим жакетом або кардиганом для прохолодної погоди.</p>  ]]></description>
@@ -12901,7 +12901,7 @@
    <param name="Колір">Білий</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1863" group_id="738381" available="false">
+  <offer id="1863" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1863/</url>
    <price>2599</price>
    <currencyId>UAH</currencyId>
@@ -12921,7 +12921,7 @@
    <picture>https://classyme.com.ua/content/images/11/shyfonova-suknia-z-riushamy-ta-kvitamy-99238499057167_+4554b5ed4c.jpeg</picture>
    <vendorCode>30d</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Шифоновое платье с рюшами и цветами - Classyme - L - Белый - (30d)]]></name>
    <name_ua><![CDATA[Шифонова сукня з рюшами та квітами - Classyme - L - Білий - (30d)]]></name_ua>
    <description><![CDATA[<p>Повітряна та жіночна сукня з ніжного шифону з рюшами по подолу і на рукавах. Прекрасно підкреслює талію завдяки широкому поясу, що зав’язується. Ідеальна для літніх прогулянок, вечірок та світських заходів. Візерунок у вигляді маленьких рожевих квіток додає романтичності та витонченості образу.<br />  Довжина 80см та є шортики для зручності.<br />  З чим носити:<br />  З класичними туфлями на підборах або елегантними мюлями.<br />  Можна доповнити невеликим клатчем або сумкою на ланцюжку.<br />  Підходить як з коротким, так і з довгим жакетом або кардиганом для прохолодної погоди.</p>  ]]></description>
@@ -13620,7 +13620,7 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
-  <offer id="31d-wxs" group_id="947944" available="false">
+  <offer id="31d-wxs" group_id="947944" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/</url>
    <price>2899</price>
    <currencyId>UAH</currencyId>
@@ -13631,7 +13631,7 @@
    <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-30050517689317_+c43b79079a.png</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Сукня з мереживом - Classyme - XS - (31d-w)]]></name>
    <name_ua><![CDATA[Сукня з мереживом - Classyme - XS - (31d-w)]]></name_ua>
    <description><![CDATA[<p>Повітряна мінісукня з романтичним настроєм і виразним силуетом. Модель має глибокий V-подібний виріз із мереживними вставками, об’ємні напівпрозорі рукави та багатошарову спідницю з воланами. Широкий пояс підкреслює талію та зав’язується в ефектний бант.<br />
@@ -13644,7 +13644,7 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
-  <offer id="1885" group_id="947944" available="false">
+  <offer id="1885" group_id="947944" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/1885/</url>
    <price>2899</price>
    <currencyId>UAH</currencyId>
@@ -13655,7 +13655,7 @@
    <picture>https://classyme.com.ua/content/images/36/23073976809225_+f35574a2b4.png</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Сукня з мереживом - Classyme - S - (31d-w)]]></name>
    <name_ua><![CDATA[Сукня з мереживом - Classyme - S - (31d-w)]]></name_ua>
    <description><![CDATA[<p>Повітряна мінісукня з романтичним настроєм і виразним силуетом. Модель має глибокий V-подібний виріз із мереживними вставками, об’ємні напівпрозорі рукави та багатошарову спідницю з воланами. Широкий пояс підкреслює талію та зав’язується в ефектний бант.<br />

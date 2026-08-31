@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-31 12:38">
+<yml_catalog date="2026-08-31 13:08">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -13414,8 +13414,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1861" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1861/</url>
@@ -13446,8 +13444,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1862" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1862/</url>
@@ -13478,8 +13474,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">M</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1863" group_id="738381" available="true">
    <url>https://classyme.com.ua/shyfonova-suknia-z-riushamy-ta-kvitamy/1863/</url>
@@ -13510,8 +13504,6 @@
    <param name="Країна-виробник">Україна</param>
    <param name="Колір">Білий</param>
    <param name="Розмір">L</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
   </offer>
   <offer id="1864" group_id="739381" available="true">
    <url>https://classyme.com.ua/dzhynsova-mini-spidnytsia/</url>
@@ -14295,8 +14287,6 @@
 Під спідницею передбачені шортики в комплекті в тон, тому модель залишається комфортною та практичною навіть під час активного руху. Представлена у молочному та чорному кольорах.</p>
 ]]></description_ua>
    <param name="Розмір">XS</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
@@ -14321,8 +14311,6 @@
 Під спідницею передбачені шортики в комплекті в тон, тому модель залишається комфортною та практичною навіть під час активного руху. Представлена у молочному та чорному кольорах.</p>
 ]]></description_ua>
    <param name="Розмір">S</param>
-   <param name="Кнопка передзамовлення">Передзамовити</param>
-   <param name="Термін доставки">12</param>
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
