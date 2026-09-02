@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-02 04:36">
+<yml_catalog date="2026-09-02 05:06">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -1936,7 +1936,6 @@
   <offer id="1223" group_id="637381" available="false">
    <url>https://classyme.com.ua/cuknia-zendaya/</url>
    <price>2099</price>
-   <oldprice>2999</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/24/cuknia-z-vyrizom-23937692507690_+3c92893bd4.jpeg</picture>
@@ -6219,7 +6218,8 @@
   </offer>
   <offer id="1502" group_id="695381" available="true">
    <url>https://classyme.com.ua/spidnytsia-plise/</url>
-   <price>1390</price>
+   <price>999</price>
+   <oldprice>1390</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/3/trendova-spidnytsia-91840090982340_+418e2a3718.jpg</picture>
@@ -6238,7 +6238,8 @@
   </offer>
   <offer id="1503" group_id="695381" available="true">
    <url>https://classyme.com.ua/spidnytsia-plise/1503/</url>
-   <price>1390</price>
+   <price>999</price>
+   <oldprice>1390</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/4/spidnytsia-plise1503-52951532528080_+da4990aa28.jpeg</picture>
@@ -6275,7 +6276,8 @@
   </offer>
   <offer id="1505" group_id="695381" available="true">
    <url>https://classyme.com.ua/spidnytsia-plise/1505/</url>
-   <price>1390</price>
+   <price>999</price>
+   <oldprice>1390</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1067</categoryId>
    <picture>https://classyme.com.ua/content/images/6/trendova-spidnytsia-96413180714237_+1c9075811b.jpg</picture>
@@ -10865,7 +10867,6 @@
   <offer id="1756" group_id="637381" available="false">
    <url>https://classyme.com.ua/cuknia-zendaya/1756/</url>
    <price>2099</price>
-   <oldprice>2999</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/7/13668354972500_+3fbc82956f.jpeg</picture>
@@ -10888,7 +10889,6 @@
   <offer id="1757" group_id="637381" available="false">
    <url>https://classyme.com.ua/cuknia-zendaya/1757/</url>
    <price>2099</price>
-   <oldprice>2999</oldprice>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
    <picture>https://classyme.com.ua/content/images/24/cuknia-z-vyrizom-23937692507690_+3c92893bd4.jpeg</picture>
