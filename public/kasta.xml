@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-02 11:36">
+<yml_catalog date="2026-09-02 12:07">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -447,7 +447,7 @@
    <param name="Колір">Білий</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1042" group_id="531381" available="true">
+  <offer id="1042" group_id="531381" available="false">
    <url>https://classyme.com.ua/sp19/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -460,7 +460,7 @@
    <picture>https://classyme.com.ua/content/images/43/sp19-45814786423028_+9cfe14e5fe.jpg</picture>
    <vendorCode>19sp</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Юбка-баллон с завязками на талии - Classyme - XS - Черный - (19sp)]]></name>
    <name_ua><![CDATA[Спідниця-baloon з завʼязками на талії - Classyme - XS - Чорний - (19sp)]]></name_ua>
    <description><![CDATA[<p>Додайте у свій образ легкості та грайливості з цією міні-спідницею “Cloud Puff”. Її об’ємний крій створює ефект повітряних складок, підкреслюючи жіночність і стиль. Еластичний пояс забезпечує ідеальну посадку на талії, а легка тканина дозволяє вільно рухатися протягом дня. Спідниця чудово поєднується з топами, футболками або светрами, створюючи універсальний образ для міста чи вечірки.<br />  <br />  Склад: 30% поліестер, 60% бавовна, 10% еластан.</p>  ]]></description>
@@ -12306,7 +12306,7 @@
    <param name="Колір">Молочний подовжений</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1836" group_id="531381" available="true">
+  <offer id="1836" group_id="531381" available="false">
    <url>https://classyme.com.ua/sp19/1836/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12318,7 +12318,7 @@
    <picture>https://classyme.com.ua/content/images/43/sp19-45814786423028_+9cfe14e5fe.jpg</picture>
    <vendorCode>19sp</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Юбка-баллон с завязками на талии - Classyme - S - Черный - (19sp)]]></name>
    <name_ua><![CDATA[Спідниця-baloon з завʼязками на талії - Classyme - S - Чорний - (19sp)]]></name_ua>
    <description><![CDATA[<p>Додайте у свій образ легкості та грайливості з цією міні-спідницею “Cloud Puff”. Її об’ємний крій створює ефект повітряних складок, підкреслюючи жіночність і стиль. Еластичний пояс забезпечує ідеальну посадку на талії, а легка тканина дозволяє вільно рухатися протягом дня. Спідниця чудово поєднується з топами, футболками або светрами, створюючи універсальний образ для міста чи вечірки.<br />  <br />  Склад: 30% поліестер, 60% бавовна, 10% еластан.</p>  ]]></description>
@@ -12328,7 +12328,7 @@
    <param name="Колір">Чорний</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1837" group_id="531381" available="true">
+  <offer id="1837" group_id="531381" available="false">
    <url>https://classyme.com.ua/sp19/1837/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12341,7 +12341,7 @@
    <picture>https://classyme.com.ua/content/images/43/sp19-45814786423028_+9cfe14e5fe.jpg</picture>
    <vendorCode>19sp</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Юбка-баллон с завязками на талии - Classyme - M - Черный - (19sp)]]></name>
    <name_ua><![CDATA[Спідниця-baloon з завʼязками на талії - Classyme - M - Чорний - (19sp)]]></name_ua>
    <description><![CDATA[<p>Додайте у свій образ легкості та грайливості з цією міні-спідницею “Cloud Puff”. Її об’ємний крій створює ефект повітряних складок, підкреслюючи жіночність і стиль. Еластичний пояс забезпечує ідеальну посадку на талії, а легка тканина дозволяє вільно рухатися протягом дня. Спідниця чудово поєднується з топами, футболками або светрами, створюючи універсальний образ для міста чи вечірки.<br />  <br />  Склад: 30% поліестер, 60% бавовна, 10% еластан.</p>  ]]></description>
@@ -12351,7 +12351,7 @@
    <param name="Колір">Чорний</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1838" group_id="531381" available="true">
+  <offer id="1838" group_id="531381" available="false">
    <url>https://classyme.com.ua/sp19/1838/</url>
    <price>1850</price>
    <currencyId>UAH</currencyId>
@@ -12364,7 +12364,7 @@
    <picture>https://classyme.com.ua/content/images/43/sp19-45814786423028_+9cfe14e5fe.jpg</picture>
    <vendorCode>19sp</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Юбка-баллон с завязками на талии - Classyme - L - Черный - (19sp)]]></name>
    <name_ua><![CDATA[Спідниця-baloon з завʼязками на талії - Classyme - L - Чорний - (19sp)]]></name_ua>
    <description><![CDATA[<p>Додайте у свій образ легкості та грайливості з цією міні-спідницею “Cloud Puff”. Її об’ємний крій створює ефект повітряних складок, підкреслюючи жіночність і стиль. Еластичний пояс забезпечує ідеальну посадку на талії, а легка тканина дозволяє вільно рухатися протягом дня. Спідниця чудово поєднується з топами, футболками або светрами, створюючи універсальний образ для міста чи вечірки.<br />  <br />  Склад: 30% поліестер, 60% бавовна, 10% еластан.</p>  ]]></description>
