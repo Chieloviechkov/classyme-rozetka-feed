@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-03 04:37">
+<yml_catalog date="2026-09-03 05:08">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -7353,7 +7353,7 @@
    <param name="Розмір">L</param>
   </offer>
   <offer id="1570" group_id="702381" available="false">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1570/</url>
+   <url>https://classyme.com.ua/korsety/1570/</url>
    <price>2999</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -7374,7 +7374,7 @@
    <param name="Розмір">S</param>
   </offer>
   <offer id="1571" group_id="702381" available="false">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1571/</url>
+   <url>https://classyme.com.ua/korsety/1571/</url>
    <price>2999</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -7394,7 +7394,7 @@
    <param name="Розмір">M</param>
   </offer>
   <offer id="1572" group_id="702381" available="false">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1572/</url>
+   <url>https://classyme.com.ua/korsety/1572/</url>
    <price>2999</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -11928,7 +11928,7 @@
    <param name="Розмір">L</param>
   </offer>
   <offer id="1815" group_id="702381" available="true">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1815/</url>
+   <url>https://classyme.com.ua/korsety/1815/</url>
    <price>3650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -11949,7 +11949,7 @@
    <param name="Розмір">XS</param>
   </offer>
   <offer id="1816" group_id="702381" available="true">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1816/</url>
+   <url>https://classyme.com.ua/korsety/1816/</url>
    <price>3650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -11969,7 +11969,7 @@
    <param name="Розмір">S</param>
   </offer>
   <offer id="1817" group_id="702381" available="true">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1817/</url>
+   <url>https://classyme.com.ua/korsety/1817/</url>
    <price>3650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
@@ -11989,7 +11989,7 @@
    <param name="Розмір">M</param>
   </offer>
   <offer id="1818" group_id="702381" available="false">
-   <url>https://classyme.com.ua/top-bandana-z-naturalnoi-tkanyny-z-vyshyvkoiu/1818/</url>
+   <url>https://classyme.com.ua/korsety/1818/</url>
    <price>3650</price>
    <currencyId>UAH</currencyId>
    <categoryId>1084</categoryId>
