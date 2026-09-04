@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-04 04:37">
+<yml_catalog date="2026-09-04 05:06">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -14178,8 +14178,8 @@
    <vendorCode>26bod-m</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
-   <name><![CDATA[Корсет з мереживо - Classyme - XS - (26bod-m)]]></name>
-   <name_ua><![CDATA[Корсет з мереживо - Classyme - XS - (26bod-m)]]></name_ua>
+   <name><![CDATA[Корсет з мереживом - Classyme - XS - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - XS - (26bod-m)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
 
 <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
@@ -14206,8 +14206,8 @@
    <vendorCode>26bod-m</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
-   <name><![CDATA[Корсет з мереживо - Classyme - S - (26bod-m)]]></name>
-   <name_ua><![CDATA[Корсет з мереживо - Classyme - S - (26bod-m)]]></name_ua>
+   <name><![CDATA[Корсет з мереживом - Classyme - S - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - S - (26bod-m)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
 
 <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
@@ -14234,8 +14234,8 @@
    <vendorCode>26bod-m</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
-   <name><![CDATA[Корсет з мереживо - Classyme - M - (26bod-m)]]></name>
-   <name_ua><![CDATA[Корсет з мереживо - Classyme - M - (26bod-m)]]></name_ua>
+   <name><![CDATA[Корсет з мереживом - Classyme - M - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - M - (26bod-m)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
 
 <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
@@ -14262,8 +14262,8 @@
    <vendorCode>26bod-m</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
-   <name><![CDATA[Корсет з мереживо - Classyme - L - (26bod-m)]]></name>
-   <name_ua><![CDATA[Корсет з мереживо - Classyme - L - (26bod-m)]]></name_ua>
+   <name><![CDATA[Корсет з мереживом - Classyme - L - (26bod-m)]]></name>
+   <name_ua><![CDATA[Корсет з мереживом - Classyme - L - (26bod-m)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>
 
 <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>
@@ -14281,10 +14281,12 @@
    <price>2899</price>
    <currencyId>UAH</currencyId>
    <categoryId>1066</categoryId>
-   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-26250146734917_+09d0443cce.png</picture>
-   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-42910043463169_+7580078adc.png</picture>
-   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-78935450580416_+6bb8f11567.png</picture>
-   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-30050517689317_+c43b79079a.png</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-16533187477676_+9ae8853525.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-86668611797691_+4f3e58b384.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-84123646352147_+f281cb3674.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-46338907374721_+3cac9a9518.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-15480901624911_+7b9ac916e2.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/35/suknia-z-merezhyvom-39143423337317_+9ea1bb8d4f.jpeg</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
@@ -14309,6 +14311,10 @@
    <picture>https://classyme.com.ua/content/images/36/43426465489396_+eff1db0467.png</picture>
    <picture>https://classyme.com.ua/content/images/36/84622144924110_+fc63214e32.png</picture>
    <picture>https://classyme.com.ua/content/images/36/23073976809225_+f35574a2b4.png</picture>
+   <picture>https://classyme.com.ua/content/images/36/26612353789568_+db971909e6.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/36/94169846081555_+f364aec5ab.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/36/36866726091729_+2ff01dbd3c.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/36/63829659945925_+a27035333a.jpeg</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
@@ -14333,6 +14339,10 @@
    <picture>https://classyme.com.ua/content/images/37/25110656132739_+3dd99d60c7.png</picture>
    <picture>https://classyme.com.ua/content/images/37/39591235263072_+2bc2364320.png</picture>
    <picture>https://classyme.com.ua/content/images/37/13713883018244_+b1372f1ef9.png</picture>
+   <picture>https://classyme.com.ua/content/images/37/69135041823983_+b4b8557cd6.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/37/63107821616538_+9c1b9060a9.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/37/88637386112745_+c6022266f6.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/37/82936343017475_+f856aac927.jpeg</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
@@ -14357,6 +14367,10 @@
    <picture>https://classyme.com.ua/content/images/38/15883699841748_+16ac13197a.png</picture>
    <picture>https://classyme.com.ua/content/images/38/83857192488155_+efad54e57d.png</picture>
    <picture>https://classyme.com.ua/content/images/38/96088850973797_+b7dbf0d4de.png</picture>
+   <picture>https://classyme.com.ua/content/images/38/51387551810465_+64fa041028.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/38/43063049844498_+b89e5354e9.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/38/82887776864253_+9b0fcabebf.jpeg</picture>
+   <picture>https://classyme.com.ua/content/images/38/36596294692377_+0ca2a75d54.jpeg</picture>
    <vendorCode>31d-w</vendorCode>
    <vendor>Classyme</vendor>
    <stock_quantity>999</stock_quantity>
