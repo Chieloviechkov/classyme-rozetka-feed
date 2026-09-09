@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-09 09:37">
+<yml_catalog date="2026-09-09 10:07">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -13730,7 +13730,7 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
-  <offer id="1888" group_id="947923" available="false">
+  <offer id="1888" group_id="947923" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/1888/</url>
    <price>2899</price>
    <currencyId>UAH</currencyId>
@@ -13741,7 +13741,7 @@
    <picture>https://classyme.com.ua/content/images/39/86936714122117_+81a4a6138f.png</picture>
    <vendorCode>31d-b</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Сукня з мереживом - Classyme - XS - (31d-b)]]></name>
    <name_ua><![CDATA[Сукня з мереживом - Classyme - XS - (31d-b)]]></name_ua>
    <description><![CDATA[<p>Повітряна мінісукня з романтичним настроєм і виразним силуетом. Модель має глибокий V-подібний виріз із мереживними вставками, об’ємні напівпрозорі рукави та багатошарову спідницю з воланами. Широкий пояс підкреслює талію та зав’язується в ефектний бант.<br />
@@ -13754,7 +13754,7 @@
    <param name="Бренд">Classyme</param>
    <param name="Країна-виробник">Україна</param>
   </offer>
-  <offer id="1889" group_id="947923" available="false">
+  <offer id="1889" group_id="947923" available="true">
    <url>https://classyme.com.ua/suknia-z-merezhyvom/1889/</url>
    <price>2899</price>
    <currencyId>UAH</currencyId>
@@ -13765,7 +13765,7 @@
    <picture>https://classyme.com.ua/content/images/40/17225253545439_+cd95cc42ed.png</picture>
    <vendorCode>31d-b</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Сукня з мереживом - Classyme - S - (31d-b)]]></name>
    <name_ua><![CDATA[Сукня з мереживом - Classyme - S - (31d-b)]]></name_ua>
    <description><![CDATA[<p>Повітряна мінісукня з романтичним настроєм і виразним силуетом. Модель має глибокий V-подібний виріз із мереживними вставками, об’ємні напівпрозорі рукави та багатошарову спідницю з воланами. Широкий пояс підкреслює талію та зав’язується в ефектний бант.<br />
