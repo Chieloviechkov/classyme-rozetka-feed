@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-09 10:36">
+<yml_catalog date="2026-09-09 11:07">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -13012,7 +13012,7 @@
    <param name="Колір">Синій</param>
    <param name="Розмір">L</param>
   </offer>
-  <offer id="1868" group_id="740381" available="false">
+  <offer id="1868" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
@@ -13023,7 +13023,7 @@
    <picture>https://classyme.com.ua/content/images/19/korset-z-merezhyvo-90629478053334_+5a059d4623.jpeg</picture>
    <vendorCode>30bod</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Корсет с кружевом - Classyme - XS - Розовый - (30bod)]]></name>
    <name_ua><![CDATA[Корсет з мереживо - Classyme - XS - Рожевий - (30bod)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>    <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>  ]]></description>
@@ -13033,7 +13033,7 @@
    <param name="Колір">Рожевий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1869" group_id="740381" available="false">
+  <offer id="1869" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/1869/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
@@ -13043,7 +13043,7 @@
    <picture>https://classyme.com.ua/content/images/20/50358464838920_+50492e42c3.jpeg</picture>
    <vendorCode>30bod</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Корсет с кружевом - Classyme - S - Розовый - (30bod)]]></name>
    <name_ua><![CDATA[Корсет з мереживо - Classyme - S - Рожевий - (30bod)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>    <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>  ]]></description>
@@ -13053,7 +13053,7 @@
    <param name="Колір">Рожевий</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1870" group_id="740381" available="false">
+  <offer id="1870" group_id="740381" available="true">
    <url>https://classyme.com.ua/korset-z-merezhyvo/1870/</url>
    <price>2149</price>
    <currencyId>UAH</currencyId>
@@ -13062,7 +13062,7 @@
    <picture>https://classyme.com.ua/content/images/21/54892802882494_+840c8c8086.png</picture>
    <vendorCode>30bod</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>0</stock_quantity>
+   <stock_quantity>999</stock_quantity>
    <name><![CDATA[Корсет с кружевом - Classyme - M - Розовый - (30bod)]]></name>
    <name_ua><![CDATA[Корсет з мереживо - Classyme - M - Рожевий - (30bod)]]></name_ua>
    <description><![CDATA[<p data-end="497" data-start="116">Цей корсет створений для тих, хто цінує поєднання елегантності та сучасного стилю. М’яка, ніжно-рожева тканина і делікатне мереживо роблять його жіночним та витонченим. Структуровані кісточки забезпечують підтримку та формують силует, підкреслюючи талію і груди. Ідеальний для повсякденного носіння або особливих випадків, коли потрібен стильний акцент у вашому образі.</p>    <p data-end="658" data-start="499">Корсет легко комбінується з джинсами, спідницями, шортами або класичними брюками. Для завершеного образу додайте невелику сумочку та мінімалістичні прикраси.</p>  ]]></description>
