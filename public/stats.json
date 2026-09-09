@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09 07:06",
+ "generated": "2026-09-09 07:35",
  "total": 644,
  "inStock": 274,
  "preorder": 336,
@@ -13,11 +13,11 @@
  "matchedArticle": 4,
  "site": {
   "requested": 649,
-  "resolved": 511,
+  "resolved": 341,
   "failed": 3,
-  "skipped": 135,
+  "skipped": 305,
   "rateLimited": false,
-  "rateLimitHits": 1,
-  "ms": 371645
+  "rateLimitHits": 3,
+  "ms": 303789
  }
 }
