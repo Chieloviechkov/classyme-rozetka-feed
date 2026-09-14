@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-14 20:08">
+<yml_catalog date="2026-09-14 20:38">
  <shop>
   <name>Classyme</name>
   <company>Classyme</company>
@@ -3506,7 +3506,7 @@
    <param name="Колір">Сріблясто-сірий</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1340" group_id="671381" available="true">
+  <offer id="1340" group_id="671381" available="false">
    <url>https://classyme.com.ua/shubka-pid-pesets-podovzhena/</url>
    <price>3450</price>
    <currencyId>UAH</currencyId>
@@ -3519,7 +3519,7 @@
    <picture>https://classyme.com.ua/content/images/41/shubka-pid-pesets-podovzhena-15898096970783_+639ecdb142.jpg</picture>
    <vendorCode>24sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Шубка под песца удлиненная - Classyme - XS - Пепельный - (24sh)]]></name>
    <name_ua><![CDATA[Шубка під песець подовжена - Classyme - XS - Попелястий - (24sh)]]></name_ua>
    <description><![CDATA[<p>Шуба  із еко хутра, можна носити до -15 градусів. Підійде на осінньо-зимовий сезон. Виглядає дуже стильно із теплими кепі та кросівками/ брогами. Довжина 67 см</p>    <p>Виріб підійде на такі параметри <br />  Хс<br />  ОГ: від 76 до 84; ОТ: від 58 до 64<br />  С <br />  ОГ: від 85 до 91; ОТ: від 64 до 70<br />  М<br />  ОГ: від 92 до 99; ОТ: від 70 до 76<br />  Л<br />  ОГ: від 100 до 109; ОТ: від 76 до 82<br />   </p>  ]]></description>
@@ -3529,7 +3529,7 @@
    <param name="Колір">Попелястий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1341" group_id="671381" available="true">
+  <offer id="1341" group_id="671381" available="false">
    <url>https://classyme.com.ua/shubka-pid-pesets-podovzhena/1341/</url>
    <price>3450</price>
    <currencyId>UAH</currencyId>
@@ -3542,7 +3542,7 @@
    <picture>https://classyme.com.ua/content/images/41/shubka-pid-pesets-podovzhena-15898096970783_+639ecdb142.jpg</picture>
    <vendorCode>24sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Шубка под песца удлиненная - Classyme - S - Пепельный - (24sh)]]></name>
    <name_ua><![CDATA[Шубка під песець подовжена - Classyme - S - Попелястий - (24sh)]]></name_ua>
    <description><![CDATA[<p>Шуба  із еко хутра, можна носити до -15 градусів. Підійде на осінньо-зимовий сезон. Виглядає дуже стильно із теплими кепі та кросівками/ брогами. Довжина 67 см</p>    <p>Виріб підійде на такі параметри <br />  Хс<br />  ОГ: від 76 до 84; ОТ: від 58 до 64<br />  С <br />  ОГ: від 85 до 91; ОТ: від 64 до 70<br />  М<br />  ОГ: від 92 до 99; ОТ: від 70 до 76<br />  Л<br />  ОГ: від 100 до 109; ОТ: від 76 до 82<br />   </p>  ]]></description>
@@ -3552,7 +3552,7 @@
    <param name="Колір">Попелястий</param>
    <param name="Розмір">S</param>
   </offer>
-  <offer id="1342" group_id="671381" available="true">
+  <offer id="1342" group_id="671381" available="false">
    <url>https://classyme.com.ua/shubka-pid-pesets-podovzhena/1342/</url>
    <price>3450</price>
    <currencyId>UAH</currencyId>
@@ -3565,7 +3565,7 @@
    <picture>https://classyme.com.ua/content/images/41/shubka-pid-pesets-podovzhena-15898096970783_+639ecdb142.jpg</picture>
    <vendorCode>24sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Шубка под песца удлиненная - Classyme - M - Пепельный - (24sh)]]></name>
    <name_ua><![CDATA[Шубка під песець подовжена - Classyme - M - Попелястий - (24sh)]]></name_ua>
    <description><![CDATA[<p>Шуба  із еко хутра, можна носити до -15 градусів. Підійде на осінньо-зимовий сезон. Виглядає дуже стильно із теплими кепі та кросівками/ брогами. Довжина 67 см</p>    <p>Виріб підійде на такі параметри <br />  Хс<br />  ОГ: від 76 до 84; ОТ: від 58 до 64<br />  С <br />  ОГ: від 85 до 91; ОТ: від 64 до 70<br />  М<br />  ОГ: від 92 до 99; ОТ: від 70 до 76<br />  Л<br />  ОГ: від 100 до 109; ОТ: від 76 до 82<br />   </p>  ]]></description>
@@ -3575,7 +3575,7 @@
    <param name="Колір">Попелястий</param>
    <param name="Розмір">M</param>
   </offer>
-  <offer id="1343" group_id="671381" available="true">
+  <offer id="1343" group_id="671381" available="false">
    <url>https://classyme.com.ua/shubka-pid-pesets-podovzhena/1343/</url>
    <price>3450</price>
    <currencyId>UAH</currencyId>
@@ -3588,7 +3588,7 @@
    <picture>https://classyme.com.ua/content/images/41/shubka-pid-pesets-podovzhena-15898096970783_+639ecdb142.jpg</picture>
    <vendorCode>24sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Шубка под песца удлиненная - Classyme - L - Пепельный - (24sh)]]></name>
    <name_ua><![CDATA[Шубка під песець подовжена - Classyme - L - Попелястий - (24sh)]]></name_ua>
    <description><![CDATA[<p>Шуба  із еко хутра, можна носити до -15 градусів. Підійде на осінньо-зимовий сезон. Виглядає дуже стильно із теплими кепі та кросівками/ брогами. Довжина 67 см</p>    <p>Виріб підійде на такі параметри <br />  Хс<br />  ОГ: від 76 до 84; ОТ: від 58 до 64<br />  С <br />  ОГ: від 85 до 91; ОТ: від 64 до 70<br />  М<br />  ОГ: від 92 до 99; ОТ: від 70 до 76<br />  Л<br />  ОГ: від 100 до 109; ОТ: від 76 до 82<br />   </p>  ]]></description>
@@ -9684,7 +9684,7 @@
    <param name="Колір">Коричневий</param>
    <param name="Розмір">XS</param>
   </offer>
-  <offer id="1693" group_id="671381" available="true">
+  <offer id="1693" group_id="671381" available="false">
    <url>https://classyme.com.ua/shubka-pid-pesets-podovzhena/1693/</url>
    <price>3450</price>
    <currencyId>UAH</currencyId>
@@ -9697,7 +9697,7 @@
    <picture>https://classyme.com.ua/content/images/41/shubka-pid-pesets-podovzhena-15898096970783_+639ecdb142.jpg</picture>
    <vendorCode>24sh</vendorCode>
    <vendor>Classyme</vendor>
-   <stock_quantity>999</stock_quantity>
+   <stock_quantity>0</stock_quantity>
    <name><![CDATA[Шубка под песца удлиненная - Classyme - XL - Пепельный - (24sh)]]></name>
    <name_ua><![CDATA[Шубка під песець подовжена - Classyme - XL - Попелястий - (24sh)]]></name_ua>
    <description><![CDATA[<p>Шуба  із еко хутра, можна носити до -15 градусів. Підійде на осінньо-зимовий сезон. Виглядає дуже стильно із теплими кепі та кросівками/ брогами. Довжина 67 см</p>    <p>Виріб підійде на такі параметри <br />  Хс<br />  ОГ: від 76 до 84; ОТ: від 58 до 64<br />  С <br />  ОГ: від 85 до 91; ОТ: від 64 до 70<br />  М<br />  ОГ: від 92 до 99; ОТ: від 70 до 76<br />  Л<br />  ОГ: від 100 до 109; ОТ: від 76 до 82<br />   </p>  ]]></description>
